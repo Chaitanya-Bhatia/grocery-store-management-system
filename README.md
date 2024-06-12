@@ -1,5 +1,5 @@
 
-```markdown
+
 # Grocery Store Management System
 
 This project is a console-based Grocery Store Management System written in Python. It uses MySQL as the database to manage products, customers, and sales. The system supports various functionalities such as adding/modifying products and customers, generating invoices, and viewing sales reports.
